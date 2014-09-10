@@ -1,0 +1,70 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<title>
+Restaurant
+</title>
+</head>
+<body>
+
+<div class="all">
+<div id="imeg">
+<img src="PIZZA-NEW-LAYOUT_01.gif"  width="900px">
+</div>
+
+
+<div id="one"  >
+
+<p id="how">HOW WE CAME TO BE.... </p></br>
+<p id="how1">
+The owners of Deep Cove and Colosseum Pizza, wined and dined throughout the Mediterranean searching for the quintessential European pizza experience; they had many and developed the following Italian Classic Pizzas
+</br>
+</br>
+Gourmands rejoice! Finally pizzas made with simple, pure ingredients like fresh hand-picked herbs combined with the finest Italian cured meats, exquisite cheeses and only the freshest vegetables. We make the dough daily for both restaurants so you can always count on a perfect crust.
+</br>
+</br>
+We know you will love our pizza as much as we do!
+</p>
+</div>
+
+<div id="two" ">
+<table>
+<tr>
+<td><h4 >
+2 Locations in Prague!
+</h4></td>
+
+</tr>
+<tr>
+	<td> <h5>Colosseum Pizza</br>
+		Zborovska 6, Prague 2
+	</h5></td>
+	<td> <h5>Colosseumka Pizza</br>
+		U teplárny 4, Prague 8
+		</h5></td>
+</tr>
+<tr>
+<td><a href="http://www.mapy.cz/#q=praha%202&t=s&x=14.528150&y=50.079855&z=10" target="mapa">click here for directions</a></td>
+<td><a href="http://www.mapy.cz/#q=praha%202&t=s&x=14.528150&y=50.079855&z=10" target="mapa">click here for directions</a></td>
+</tr>
+</table>
+</div>
+
+	<div id="odkaz">
+<a href="menu.html" > Colosseum Pizza Menu </a>
+</div>
+
+<img id="imeg1" src="wedeliver_09.gif"border="0" >
+<div id="text">
+Call us if you’re having a get-together and need a little help. The Italian Classic pizzas make great appetizers and we welcome large orders.
+</br>
+If you’re simply wanting a hot meal to come home to, call us before you leave work and it will be ready upon your arrival!
+</p></div>
+<img id="anime" src="picture.gif" width="390" height="200" border="0" >
+</div>
+</body>
+</html>

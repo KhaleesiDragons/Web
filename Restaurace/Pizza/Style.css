@@ -1,0 +1,142 @@
+body {
+ width:600px;
+ background:-moz-linear-gradient(75% 99% 90deg,#BFA47C, #F5F5DC);
+ background-color:#F5F5DC;
+margin-left:200px;
+margin-right:200px;
+}
+
+
+
+#picture{
+    width:700px;
+    height:350px;
+    margin-bottom:0px;
+    margin-left:100px;
+    margin-right:100px;
+   
+}
+
+.how{
+    width:400px;
+    text-align: justify;
+    background-color: #F0D79B;
+    
+     padding:20px;
+    
+}
+.tab{
+    position:absolute;
+    background-color: #cd7f32;
+    text-align:center;
+    width:435px;
+    padding-bottom:10px;
+    font-family: sans-serif;
+    font-style:normal;
+    color:black;
+    font-size:15px;
+     margin-left:450px;
+    margin-top:-275px;
+    border-color: #F0D79B;
+    border-style: double;
+    border-width:12px;
+}
+.tab a,h3{
+    color: white;
+}
+
+.vse{
+    background-color:White;
+    width:900px;
+    border-style:solid;
+    border-color:#F0D79B;
+    height:938px;
+}
+#anime{
+    position:absolute;
+    margin-top: 20px;
+    width:420px;
+    height: 190px;
+    border-style: groove;
+    border-width:10px;
+    border-color: #cd7f32;
+}
+
+#odkaz a{
+  position:absolute;
+    margin-left:687px;
+    margin-top:-50px;
+    padding:10px;
+    font-size:18px;
+    background-color:#cd7f32;
+    color:White;
+    
+}
+.text{
+position: absolute;
+font-size:15px;
+    margin-left:470px;
+    margin-top:40px;
+    width:400px;
+     text-align: justify;
+}
+.text img{
+    width:400px;
+}
+
+.menu_p li{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    list-style-type: none;
+    font-style:normal;
+    font-size:18px;
+    
+   margin-left:0px;
+    background:#b5813b;
+    text-align:center;
+    border-style: solid;
+    border-color:#d2b48c;
+}
+.menu_p li:hover{
+     background-color:#ffefd5;
+    font-size:25px;
+}
+
+.menu_p a{
+    color:black;
+    text-decoration: none;
+}
+.menu_p a:hover  {color:#d2b48c;
+}
+
+
+.menu_p ul{
+float:left;
+    list-style-type: none;
+    background-color: #F0D79B;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:150px;
+}
+
+.predkrmy{
+    margin-top:40px;
+    margin-left:230px;
+    width:550px;
+}
+.predkrmy b{
+    
+    font-style:normal;
+     font-family: Georgia, "Times New Roman", Times, serif;
+}
+.predkrmy table{
+    margin:20px;
+    text-align:center;
+    font-size:15px;
+    font-family:"Times New Roman",serif;
+}
+.predkrmy td{
+    padding-left:10px;
+     vertical-align:top;
+    padding:5px;
+}

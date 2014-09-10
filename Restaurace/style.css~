@@ -1,0 +1,122 @@
+body{
+	margin-left:180px;
+	margin-right:180px}
+
+  }
+ #imeg{
+ padding-top:30px;
+
+ }
+
+#how{
+font-style:Liberation Mono;
+font-size:35px;
+padding-left:20px;
+padding-top:10px;
+padding-bottom:10px;
+margin-bottom:10px;
+
+}
+#how1{
+padding-left:20px;
+padding-right:20px;
+padding-bottom:15px;
+margin-top:-30px;
+
+
+}
+#one{
+font-size:12px;
+width:400px;
+background-color: #F0D79B;
+
+
+}
+
+#two{
+
+text-align: center;
+width:480px;
+hight:100px;
+margin-left:+430px;
+margin-top:-290px;
+background-color: #EB8208; 
+ border-style:RIDGE ;
+ border-color:#F0D79B;
+ border-width:10px;
+
+
+}
+h4,a{
+color:white;
+}
+table{
+
+padding-top:10px;
+padding-bottom:10px;
+text-align:center;
+width:450px;
+}
+
+#imeg1{
+padding-left:440px;
+padding-top: 160px;
+}
+
+
+
+#text{
+font-size:12px;
+padding-left:440px;
+padding-right:20px;
+width:480px
+ 
+}
+
+#odkaz{
+margin-top:30px;
+background-color: #EB8208; 
+color:white;
+width:220px;
+hight:30px;
+padding:5px;
+margin-left:700px;
+margin-right:170px;
+font=size:12px;
+text-align:center;
+}
+
+#anime{
+margin-top:-250px;
+border-style:solid;
+border-width:5px;
+border-color: #F0D79B;
+}
+
+.menu1{
+padding-top:60px;
+width:700px;
+font-size:15px;
+}
+.ted td{
+padding:10px 5px 5px 5px;
+vertical-align: top;
+font-size:15px;
+
+}
+.predkrm{
+padding-bottom:40px;
+
+}
+#rizoto{
+margin-left:500px;
+margin-top:-950px;
+}
+
+.all{
+position:absolute;
+width:700px;
+border-color:#F0D79B;
+border-width:1px;
+margin:20px;
+}
